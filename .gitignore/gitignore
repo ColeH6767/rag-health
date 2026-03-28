@@ -60,3 +60,10 @@ downloads/
 # Optional: Jupyter
 ########################################
 *.ipynb
+
+
+
+# Local only - do not push
+References/
+RAG_Health_SKILL.md
+SKILL.md
